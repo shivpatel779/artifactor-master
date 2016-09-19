@@ -1,0 +1,10 @@
+{
+  "name": "sortable",
+  "description": "Sortable drag and drop",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "location": "dt~sortable" 
+    }
+  ]
+}
